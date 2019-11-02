@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import { Provider } from 'react-redux';
 import { createStore } from 'redux';
 import rootReducer from './reducers';
-import './semantic-ui/dist/semantic.min.css';
+import './semantic/dist/semantic.min.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
