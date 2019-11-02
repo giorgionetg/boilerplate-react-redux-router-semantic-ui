@@ -1,8 +1,8 @@
 import { combineReducers } from 'redux'
 
 // Import your reducers!
-//import todos from './todos';
+import starter from './starter';
 
 export default combineReducers({
-  todos
+  starter
 })
